@@ -1,15 +1,13 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 <b> <i>Kareem Alaa</i></b>
 
-[![](https://img.shields.io/badge/-@abdoelazizgamal-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/abdoelazizgamal)
-[![](https://img.shields.io/badge/-@abdoelazizgamal-%23181717?style=flat-square&logo=github)](https://github.com/abdoelazizgamal)
-[![](https://img.shields.io/badge/-@abdoelazizgamal-%231DA1F2?style=flat-square&logo=facebook&logoColor=ffffff)](https://www.facebook.com/profile.php?id=100018186585860)
+[![](https://img.shields.io/badge/-@abdoelazizgamal-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://x.com/Kimoala68195085)
+[![](https://img.shields.io/badge/-@abdoelazizgamal-%23181717?style=flat-square&logo=github)](https://github.com/kareemalaa010)
+[![](https://img.shields.io/badge/-@abdoelazizgamal-%231DA1F2?style=flat-square&logo=facebook&logoColor=ffffff)](https://www.facebook.com/kareem.albltage)
 [![](https://img.shields.io/badge/-@agcoding-%23181717?style=flat-square&logo=telegram)](https://t.me/agcoding)
-[![](https://img.shields.io/badge/-@abdoelazizgamal-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/abdoelazizgamal)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=abdoelazizgamal.vercel&url=https://portfolio-abdoelazizgamal.vercel.app)](https://portfolio-abdoelazizgamal.vercel.app)
+[![](https://img.shields.io/badge/-@abdoelazizgamal-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kareem-alaa-61a62a228/)
 <br />
 <br />
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/abdoelazizgamal?label=Follow%20Me&style=social)](https://github.com/abdoelazizgamal)
-
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/abdoelazizgamal?label=Follow%20Me&style=social)](https://github.com/kareemalaa010/)
 <br />
 
 I'm a self-taught passionate Web developer from <b>Egypt</b>
@@ -48,18 +46,9 @@ I'm a self-taught passionate Web developer from <b>Egypt</b>
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
 
-🚩 **Module Bundlers** <br>
-<br>
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
-![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
-![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
-
 🌍 **Deployment platforms:**
 <br>
-<br>
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+
 <img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages)
 
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)

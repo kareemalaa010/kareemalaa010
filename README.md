@@ -1,10 +1,9 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 <b> <i>Kareem Alaa</i></b>
 
-[![](https://img.shields.io/badge/-@abdoelazizgamal-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://x.com/Kimoala68195085)
-[![](https://img.shields.io/badge/-@abdoelazizgamal-%23181717?style=flat-square&logo=github)](https://github.com/kareemalaa010)
-[![](https://img.shields.io/badge/-@abdoelazizgamal-%231DA1F2?style=flat-square&logo=facebook&logoColor=ffffff)](https://www.facebook.com/kareem.albltage)
-[![](https://img.shields.io/badge/-@agcoding-%23181717?style=flat-square&logo=telegram)](https://t.me/agcoding)
-[![](https://img.shields.io/badge/-@abdoelazizgamal-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kareem-alaa-61a62a228/)
+[![](https://img.shields.io/badge/-@KareemAlaa-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://x.com/Kimoala68195085)
+[![](https://img.shields.io/badge/-@KareemAlaa-%23181717?style=flat-square&logo=github)](https://github.com/kareemalaa010)
+[![](https://img.shields.io/badge/-@KareemAlaa-%231DA1F2?style=flat-square&logo=facebook&logoColor=ffffff)](https://www.facebook.com/kareem.albltage)
+[![](https://img.shields.io/badge/-@KareemAlaa-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kareem-alaa-61a62a228/)
 <br />
 <br />
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/abdoelazizgamal?label=Follow%20Me&style=social)](https://github.com/kareemalaa010/)
@@ -14,7 +13,7 @@ I'm a self-taught passionate Web developer from <b>Egypt</b>
 
 **About me**
 
-- 👨‍💻 I Worked as a Frontend Developer in AZRAk Company
+- 👨‍💻 I Worked as a Frontend Developer in AZRAK Company
 
 - ❤️ I love writing Javascript , python and C++ 
 
@@ -43,8 +42,6 @@ I'm a self-taught passionate Web developer from <b>Egypt</b>
 <br>
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 ![Windicss](https://img.shields.io/badge/-bootstrap-%23000000?style=flat-square&logo=bootstrap&&logoColor=48B0F1)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
 
 🌍 **Deployment platforms:**
 <br>
